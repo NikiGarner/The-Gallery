@@ -13,6 +13,7 @@ Router.map(function() {
   this.route('store');
   this.route('gallery');
   this.route('game');
+  this.route('results');
 });
 
 export default Router;
